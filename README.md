@@ -8,4 +8,4 @@ The Brains That Make Noise Machine Tick.
  Originally based off neilbags code:
  * https://github.com/neilbags/arduino-esp32-BLE-MIDI
  
- Use "ESP32 Pico Kit" as the board when uploading.
+ Use "Firebeetle-ESP32" as the board when uploading.
