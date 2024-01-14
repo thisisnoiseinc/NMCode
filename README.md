@@ -18,13 +18,18 @@ https://a.co/d/i3A57Qw
 
 ![alt text](https://github.com/thisisnoiseinc/NMCode/blob/main/Programming/Pins.png)
 
-Top to Bottom:
+Top to Bottom (in picture above):
 
 BOOT
+ <br />
 EN
+ <br />
 GND
+ <br />
 3V3
+ <br />
 RX
+ <br />
 TX
 
 **Arduino**
