@@ -5,7 +5,6 @@ The Brains That Make Noise Machine (NMSVE) Tick.
  * https://github.com/espressif/arduino-esp32
 
 ## Programming
-Use "Firebeetle-ESP32" as the board when uploading.
 
 **USB to TTL Converter**
 
@@ -27,6 +26,10 @@ GND
 3V3
 RX
 TX
+
+**Arduino**
+
+Use "Firebeetle-ESP32" as the board when uploading.
 
 ## Notes
  Originally based off neilbags code:
