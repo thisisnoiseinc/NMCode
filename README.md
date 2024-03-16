@@ -32,6 +32,8 @@ RX
  <br />
 TX
 
+To enter BOOT Mode for programming pull "BOOT" to "GND" on startup.
+
 **Arduino**
 
 Use "Firebeetle-ESP32" as the board when uploading.
